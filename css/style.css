@@ -1,0 +1,105 @@
+.container-fluid {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+#name{
+  font-size: 2em;
+  color:#0873B0;
+  }
+#mean{
+  font-size: 3em;
+  font-weight: bold;
+}
+.navbar{
+
+font-family: serif;
+
+}
+.nav-item{
+  font-family: serif;
+  text-align: right;
+  margin-left: 2em;
+  font-size: 0.8em;
+  color: white;
+}
+.navbar-custom {
+    background-color: black;
+
+}
+.centered{
+  font-family: serif;
+}
+
+.heading{
+  text-align: center;
+  font-family: serif;
+  font-size: 3em;
+
+  }
+  .detailssubheading{
+  font-size: 1em;
+  font-family: serif;
+  }
+
+  .detailsheading{
+  font-size: 1.2em;
+  font-family: serif;
+  }
+  .date{
+  float: right;
+  padding-right: 2vw;
+  }
+
+  .datedetails{
+  color: #1C2833;
+  font-size: 1em;
+  font-family: serif;
+  }
+
+  * {box-sizing: border-box}
+
+.containers {
+  width: 80%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #CD6155;}
+.css {width: 80%; background-color: #A569BD;}
+.bs {width: 80%; background-color: #5499C7;}
+.js {width: 65%; background-color:#48C9B0;}
+.jq {width: 65%; background-color: #52BE80;}
+.ms {width: 75%; background-color:#F4D03F;}
+.db {width: 75%; background-color: #E67E22;}
+.java {width: 65%; background-color:#D35400;}
+ html{
+   position: relative;
+   min-height: 100%;
+   width: 100%;
+ }
+ .fa-phone, .fa-envelope, .fa-facebook, .fa-twitter, .fa-github, .fa-linkedin{
+background:#2C3E50;
+color: white;
+border-radius: 50%;
+}
+.fa:hover {
+opacity: 0.7;
+}
+.contactme{
+list-style-type: none;
+
+
+}
+
+.contactitem{
+float: left;
+font-size: 1.5em;
+padding-left: 1.5em;
+
+}
